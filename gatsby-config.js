@@ -67,6 +67,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
+        icon: `logo512.png`,
         name: `Gatsby website`,
         short_name: `Gatsby website`,
         start_url: `/`,
